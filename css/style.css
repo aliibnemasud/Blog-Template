@@ -1,0 +1,400 @@
+
+body {
+    position: relative;
+    font-family: 'PT Serif', serif;
+}
+
+
+
+
+.banner p {
+    margin: 0;
+    position: absolute;
+    right: 0;
+    top: 135%;
+    color: #fff;
+}
+
+
+.nav-link {
+    color: #2196F3 !important;
+    font-size: 16px;
+    margin: 0px 10px;
+    transition: .5s;
+}
+
+.nav-link:hover {
+    color: #000 !important;
+}
+.right {}
+.left .nav-link a {}
+.right .nav-link a {}
+
+.left {
+    color: gray !important;
+    margin-left: 15px;
+}
+
+.fa-search {}
+
+
+
+.blue,.navbar-brand {
+    background: blue;
+    color: #fff !important;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.blue {
+    position: absolute;
+    height: 100%;
+    width: 28%;
+    left: 0;
+    z-index: -1;
+}
+.navbar {
+    z-index: 0;
+    padding: 0;
+    height: 60px;
+    font-family: 'PT Sans', sans-serif;
+} 
+
+
+
+
+/*corosol item */
+
+.carousel-item h1 {
+    padding: 0 12%;
+    line-height: 1.5;
+}
+.bd-example {}
+.c-people {
+    float: left;
+    border-radius: 0;
+    font-family: 'PT Sans', sans-serif;
+    margin-left: 17% !important;
+}
+.c-date {
+    float: right;
+    font-family: 'PT Sans', sans-serif;
+    margin-right: 17%;
+}
+
+.c-date span {
+    color: #2196F3; 
+}
+
+.f-banner-content {
+    margin-bottom: 15%;
+}
+
+/*blog section start*/
+
+.blog, .blog-3 {
+    padding: 80px 0;
+    background: #f6f6f6;
+    position: relative;
+}
+
+
+
+.card h1 {}
+.card {}
+.card-body {}
+.blog p, .blog-3 p {
+    font-size: 18px;
+    margin-top: 12px;
+    padding: 0 !important;
+    font-family: 'PT Sans', sans-serif;
+    color: #b0b0b0;
+}
+.blog p span, .blog-3 p span {
+    color: blue;
+}
+.blog .box h3, blog-3 .box h3 {
+    margin-top: 20px;
+    font-size: 24px;
+    line-height: 1.7;
+}
+.box {}
+.blog .box a {
+    border: none;
+    border-radius: 0 !important;
+    position: absolute;
+    bottom: 200Px;
+    font-size: 17px;
+    font-family: 'PT Sans', sans-serif;
+}
+.trips {
+    background: #d90445;
+}
+.trips.fashion {
+    background: #8200b2;
+}
+
+.tech {
+    background: #000;
+}
+
+
+/*single-blog section*/
+
+.single-blog {
+    padding: 80px 0;
+}
+
+.single-blog p {
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'PT Sans', sans-serif;
+}
+.single-blog h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 60px;
+}
+.single-blog a {
+    position: absolute;
+    left: 0;
+}
+.single-blog p span {
+    color: blue;
+}
+.img-b2 {
+    position: relative;
+}
+.banner-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.single-blog .trips {
+    left: 23px;
+    top: 82%;
+    border-radius: 0;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.date {
+    position: absolute;
+    right: 61px;
+    top: 83%;
+}
+
+
+/*blog-3 section */
+
+.blog-3 {
+    background: #fff;
+}
+
+.blog-3 h3 {
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+.blog-3 .trips {} 
+.blog-3 .box a {
+    position: absolute;
+    top: 41%;
+    border-radius: 0;
+    padding: 10px 20px;
+    border: none;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+.blog-3 .box {
+    padding: 40px 0;
+}
+
+.people {
+    background: blue;
+    margin-left: 1%;
+    margin-top: 5%;
+    border-radius: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+/*newslatter section*/
+.newslatter {
+    background: url(../img/newslatter-bg.png);
+    padding: 80px 0;
+}
+.newslatter h1 {
+    text-align: center;
+    color: #fff;
+}
+.newslatter p {
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+}
+.newslatter form {width: 40%;margin: 0 auto;}
+.newslatter form input {
+    display: inline-block;
+    margin: 30px auto;
+    padding: 8px 52px 8px 17px;
+    width: 80%;
+    border-radius: 40px;
+    background: #2c6cff;
+    border: transparent;
+    color: #fff;
+}
+.newslatter form button {
+    padding: 7px 20px;
+    border-radius: 22px;
+    margin-left: -94px;
+    background: #fff;
+    color: #000;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+/*footer section*/
+
+.footer {
+    padding: 44px 0;
+}
+
+.footer p {
+    text-align: center;
+    padding: 0px 25%;
+    font-size: 17px;
+    font-family: 'PT Sans', sans-serif;
+    color: #b0b0b0;
+}
+.footer p span {
+        font-weight: 700;
+}
+
+
+
+
+
+/*Responsive*/
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    
+    .navbar {
+    padding: 11px;
+}
+    .banner .people {
+    margin-left: 5%;
+    font-size: 12px;
+}
+    .banner h1 {
+    font-size: 20px;
+    line-height: 2;
+    margin-left: 4%;
+}
+    .banner p {
+    font-size: 12px;
+    margin-right: 5%;
+}
+.woman {
+    margin-top: 36%;
+    margin-bottom: 2%;
+}
+
+
+}
+
+/*// Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+       .navbar {
+    padding: 11px;
+}
+    .banner .people {
+    margin-left: 5%;
+    font-size: 12px;
+}
+    .banner h1 {
+    font-size: 20px;
+    line-height: 2;
+    margin-left: 4%;
+}
+    .banner p {
+    font-size: 12px;
+    margin-right: 5%;
+}
+.woman {
+    margin-top: 36%;
+    margin-bottom: 2%;
+}
+
+.blue {
+    width: 35%;
+}
+
+}
+
+/*// Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) {
+
+           .navbar {
+    padding: 11px;
+}
+    .banner .people {
+    margin-left: 5%;
+    font-size: 12px;
+}
+    .banner h1 {
+    font-size: 20px;
+    line-height: 2;
+    margin-left: 4%;
+}
+    .banner p {
+    font-size: 12px;
+    margin-right: 5%;
+}
+.woman {
+    margin-top: 29%;
+    margin-bottom: 2%;
+}
+
+.blue {
+    width: 35%;
+}
+
+.navbar .nav-link {
+    font-size: 13px;
+}
+.left {
+    display: none;
+}
+
+}
+
+/*// Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) { 
+
+.navbar .nav-link {
+    font-size: 12px;
+}
+.blue {
+    width: 20%;
+}
+
+.banner h1 {
+    font-size: 25px;
+    line-height: 2;
+    margin-left: 4%;
+}
+
+
+}
+
+
+
